@@ -25,6 +25,24 @@ const socialProfiles = [
    media[]     -> inner array, the images that auto-play in the card
 ========================================================= */
 const portfolioItems = [
+   {
+      kind: "Gaming Community",
+      title: "Clashland",
+      description: "A Clash of Clans Competitive Clan! Where members spar among themselves to grab a Honor of Spot!",
+      link: "https://discord.gg/5GTPsrhYDr",
+      linkText: "Join Server!",
+      cardBg: "#2b2d31",
+      cardBorder: "#5865F2",
+      titleColor: "#ffffff",
+      descColor: "#b5b8be",
+      linkBoxColor: "#5865F2",
+      media: [
+         "https://cdn.discordapp.com/attachments/1550608305033060502/1550608686613794886/Screenshot_20260912-160956_Discord.png?ex=6aaef45f&is=6aada2df&hm=eaf4686d512c27811b997c721ada979e1538e2a39121976cdd9037fcd4bd319f&",
+         "https://cdn.discordapp.com/attachments/1550608305033060502/1550608687024971826/Screenshot_20260912-161007_Discord.png?ex=6aaef45f&is=6aada2df&hm=8ee78b7bc6160ba1189fa970d8057e4531ec0b434decfb6db11b809c489cb53f&",
+         "https://cdn.discordapp.com/attachments/1550608305033060502/1550608687909838978/Screenshot_20260912-161033_Discord.png?ex=6aaef460&is=6aada2e0&hm=96698a1f0ac7cd9d921e5abfd082f824f5221ab8c648effbcc43688dba960c66&",
+         "https://cdn.discordapp.com/attachments/1550608305033060502/1550608688547496097/Screenshot_20260912-161049_Discord.png?ex=6aaef460&is=6aada2e0&hm=684235e62bfac24c628779e6c91dfb0de4f693c00cafba423e07ccc89489f60b&"
+         ]
+   }
 ];
 
 /* ---------------------------------------------------------
