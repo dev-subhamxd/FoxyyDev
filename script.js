@@ -46,7 +46,7 @@ const portfolioItems = [
    {
       kind: "Chilling Community",
       title: "Holy Ragebait",
-      description: "You say you're immune to Ragebaiting?? let's see it though then?",
+      description: "You say you're immune to Ragebaiting?? Wanna see it though then?",
       link: "",
       linkText: "Join Server!",
       cardBg: "#2b2d31",
