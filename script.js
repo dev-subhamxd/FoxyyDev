@@ -37,8 +37,10 @@ const portfolioItems = [
       descColor: "#b5b8be",
       linkBoxColor: "#5865F2",
       media: [
-         "images/11.png"
-         "images/12.png"
+         "images/11.png",
+         "images/12.png",
+         "images/13.png",
+         "images/14.png"
       ]
    },
    {
@@ -53,9 +55,9 @@ const portfolioItems = [
       descColor: "#b5b8be",
       linkBoxColor: "#5865F2",
       media: [
-         "https://cdn.discordapp.com/attachments/1550608305033060502/1550608684974088222/Screenshot_20260912-160923_Discord.png?ex=6aaef45f&is=6aada2df&hm=99f2cc9a5160ed904c5561a0fa0e883fdeb90496d5e319e0e81e5af39b394ac8&",
-         "https://cdn.discordapp.com/attachments/1550608305033060502/1550608685414219887/Screenshot_20260912-160931_Discord.png?ex=6aaef45f&is=6aada2df&hm=ad4fa8d6238051a97089012b85c2bcbd5f37890419496adfc8f60814b1234b6a&"
-         ]
+         "images/21.png",
+         "images/22.png"
+      ]
    },
    {
       kind: "Business Community",
@@ -69,10 +71,10 @@ const portfolioItems = [
       descColor: "#b5b8be",
       linkBoxColor: "#5865F2",
       media: [
-         "https://cdn.discordapp.com/attachments/1550608305033060502/1550608689281638480/Screenshot_20260912-161158_Discord.png?ex=6aaef460&is=6aada2e0&hm=3de2df0fdf90f6c84e447de7e5f9ee58935ac3ba1153d0061f2e98377969601f&",
-         "https://cdn.discordapp.com/attachments/1550608305033060502/1550608689612726283/Screenshot_20260912-161202_Discord.png?ex=6aaef460&is=6aada2e0&hm=59703a990c802d05bb638ae244ee0c36a40b93c56645e40c251906007048991f&",
-         "https://cdn.discordapp.com/attachments/1550608305033060502/1550608690263101621/Screenshot_20260912-161234_Discord.png?ex=6aaef460&is=6aada2e0&hm=1a6486a4b1ecde66b559a2d3e55bbc783b5d83c6089e7ee60034b7b448e38dd7&"
-      ]
+         "images/31.png",
+         "images/32.png",
+         "images/33.png"
+         ]
    },
    {
       kind: "Bot Community",
@@ -86,12 +88,12 @@ const portfolioItems = [
       descColor: "#b5b8be",
       linkBoxColor: "#5865F2",
       media: [
-         "https://cdn.discordapp.com/attachments/1550608305033060502/1550608691005497438/Screenshot_20260912-161249_Discord.png?ex=6aaef460&is=6aada2e0&hm=1a6256a774d1507ebc9680fff85eb1afc93c60c1f48514e1dec358c54e059ccc&",
-         "https://cdn.discordapp.com/attachments/1550608305033060502/1550608764108021841/Screenshot_20260912-161258_Discord.png?ex=6aaef472&is=6aada2f2&hm=2c318a07868e1cd01042a08da4ed037df3d91008d00ed623df40c4c7feaf49aa&",
-         "https://cdn.discordapp.com/attachments/1550608305033060502/1550608765492133898/Screenshot_20260912-161304_Discord.png?ex=6aaef472&is=6aada2f2&hm=2090531b5f0b2c84331378f377879dff22b4ae7d843c7dccb2b7b3f1639f2599&",
-         "https://cdn.discordapp.com/attachments/1550608305033060502/1550608766209233056/Screenshot_20260912-161323_Discord.png?ex=6aaef472&is=6aada2f2&hm=3f2c1cf1cdb04b38b729856003898d8ef24a2ddd0d2318217f935138b36815dd&",
-         "https://cdn.discordapp.com/attachments/1550608305033060502/1550608766733385808/Screenshot_20260912-161340_Discord.png?ex=6aaef472&is=6aada2f2&hm=1f5bf8dd87a265b1b1de04aaa7629e305c45306277ba772ec55ca14da52b221d&"
-      ]
+         "images/41.png",
+         "images/42.png",
+         "images/43.png",
+         "images/44.png",
+         "images/45.png"
+         ]
    }
 ];
 
